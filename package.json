@@ -5,7 +5,7 @@
   "license": "ISC",
   "author": "Csongor Kertesi",
   "type": "module",
-  "main": "index.js",
+  "main": "EmployeeStatistics.js",
   "scripts": {
     "test": "vitest"
   },
