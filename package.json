@@ -1,0 +1,15 @@
+{
+  "name": "employeestatistics",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Csongor Kertesi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^3.0.9"
+  }
+}
